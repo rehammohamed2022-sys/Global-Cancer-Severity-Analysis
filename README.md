@@ -161,11 +161,7 @@ on cancer severity outcomes.
 
 Statistics, Econometrics, Cancer Severity Analysis, Health Analytics, Multiple Linear Regression, ANCOVA, Public Health, Genetic Risk, Air Pollution, Obesity, Smoking, Alcohol Consumption, Treatment Cost, Predictive Modeling, R Programming, Data Science
 
----
 
-## Author
-
-Reham Mohamed
 
 B.Sc. Statistics
 
